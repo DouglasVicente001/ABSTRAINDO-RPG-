@@ -1,0 +1,15 @@
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\AbstraindoRPG.exe
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\AbstraindoRPG.deps.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\AbstraindoRPG.runtimeconfig.json
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\AbstraindoRPG.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\ref\AbstraindoRPG.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\bin\Debug\net6.0\AbstraindoRPG.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.csproj.AssemblyReference.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.AssemblyInfoInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.AssemblyInfo.cs
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\ref\AbstraindoRPG.dll
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.pdb
+C:\Users\Douglas\OneDrive\Área de Trabalho\EspeculaçõesTreino\AbstraindoRPG\obj\Debug\net6.0\AbstraindoRPG.genruntimeconfig.cache
