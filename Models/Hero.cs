@@ -1,7 +1,7 @@
 using static System.Console;
 namespace AbstraindoRPG.Models
 {
-    public class Hero
+    public abstract class Character
     {
         public string Name;
         public int Level;
@@ -16,7 +16,7 @@ namespace AbstraindoRPG.Models
 
         public int MaxMp;
 
-        public Hero (string Name,int Level,string HeroType,int Hp,int MaxHp,int Mp,int MaxMp)
+        public Character (string Name,int Level,string HeroType,int Hp,int MaxHp,int Mp,int MaxMp)
         {
         this.Name = Name;
         this.HeroType = HeroType;

@@ -1,7 +1,7 @@
 using static System.Console;
 namespace AbstraindoRPG.Models
 {
-    public class Ninja : Hero
+    public class Ninja : Character
     {
         public Ninja (string Name,int Level,string HeroType,int Hp,int MaxHp,int Mp,int MaxMp) : base(Name, Level, HeroType, Hp, MaxHp,Mp, MaxMp)
         {

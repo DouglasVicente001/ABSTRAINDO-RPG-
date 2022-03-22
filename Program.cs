@@ -22,7 +22,7 @@ namespace ABSTRAINDORPG
             WriteLine("Conferir boss final. Pressione (2):");
             WriteLine("Sair. Pressione (3):");
             Opcao = int.Parse(ReadLine());
-
+            
             switch (Opcao)
             {
             case 1 :
